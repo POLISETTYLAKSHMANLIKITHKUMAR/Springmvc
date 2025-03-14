@@ -1,1 +1,1 @@
-# Springmvc
+A Spring MVC CRUD operation ⚙️ enables **Create** (POST ✨), **Read** (GET 📖), **Update** (PUT/PATCH 🔄), and **Delete** (DELETE 🗑️) operations using controllers. It follows the MVC pattern 🎭, handling requests via `@Controller` and interacting with databases through services and repositories 🏛️. Spring MVC ensures clean architecture, scalability, and seamless data handling 🚀.
